@@ -1,2 +1,4 @@
 # Bamazon
-![Screenshot](images/Screenshot (2).png.png)
+![Screenshot](Screenshot1.png)
+![Screenshot](Screenshot2.png)
+![Screenshot](Screenshot3.png)
